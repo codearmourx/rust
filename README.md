@@ -1,3 +1,4 @@
 to create the executable
 
-rustc main.rs -o main
+rustc main.rs -o main.exe
+
